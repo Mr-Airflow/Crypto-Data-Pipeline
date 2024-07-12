@@ -3,4 +3,6 @@
 • Employed Airflow to orchestrate the end-to-end ETL process, streamlining extraction, transformation, and loading.</br>
 • Leveraged Glue and Crawler to transform data into Parquet format, optimizing it for faster and more efficient analysis.</br>
 • Used Athena, an AWS serverless query service, to analyze the transformed data and derive highly actionable insights.</br>
-• Tools and techs:- Python, SQL, S3, ELT, Airflow, Glue, Crawler, Athena
+• Tools and techs:- Python, SQL, S3, ELT, Airflow, Glue, Crawler, Athena, API
+
+![image](https://github.com/user-attachments/assets/37651f8c-c65e-4f1c-96fa-0571d9fffc9d)
