@@ -5,4 +5,4 @@
 • Used Athena, an AWS serverless query service, to analyze the transformed data and derive highly actionable insights.</br>
 • Tools and techs:- Python, SQL, S3, ELT, Airflow, Glue, Crawler, Athena, API
 
-![image](https://github.com/user-attachments/assets/37651f8c-c65e-4f1c-96fa-0571d9fffc9d)
+![image](https://github.com/user-attachments/assets/a3fbb5d3-77d1-4bfd-bb8d-a2e06d702464)
